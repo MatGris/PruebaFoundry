@@ -1,0 +1,25 @@
+{
+  "title": "Hoard of the Dragon Queen",
+  "id": "world.hoard-of-the-dragon-queen.2024-08-23.1724445134192",
+  "system": "dnd5e",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 1714525,
+  "note": "Intento2",
+  "snapshotId": null,
+  "originalSize": 2665620,
+  "createdAt": 1724445134196,
+  "packageId": "hoard-of-the-dragon-queen",
+  "type": "world"
+}
